@@ -1,11 +1,20 @@
-<div align="center">
+# PostdocFinder AI - 博士后职位智能搜索
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+这是一个基于Google AI开发的博士后职位匹配工具，帮助研究人员快速找到全球学术机会。
 
-  <h1>Built with AI Studio</h2>
+🔗 直达链接：https://postdocfinder-1021230570004.us-west1.run.app
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+作为过来人，知道找博后位置多耗时！我用Google AI技术做了这个匹配工具：
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+✅
+✅ 智能匹配研究方向
 
-</div>
+✅ 全球机会实时搜索🔍  
+
+目前还在持续优化中，欢迎各位科研小伙伴试用反馈！
+
+📌 我的小红书：683320892
+
+我会在这里更新使用教程、功能改进和学术求职经验～
+
+#博士后 #学术求职 #AI工具 #科研日常 #博士毕业
